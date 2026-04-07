@@ -121,4 +121,4 @@ streamlit run app.py
 
 ## Author
 
-Shivansh | University of Waterloo | BSc & Business, Minor in Computing & Economics
+Simran Saran| University of Waterloo | Bachelor of Science
