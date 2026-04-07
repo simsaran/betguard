@@ -15,7 +15,7 @@ BetGuard is an interactive fraud monitoring dashboard that:
 
 ## Live Demo
 
-🔗 [Access the Live Dashboard](YOUR_STREAMLIT_LINK_HERE)
+🔗 [Access the Live Dashboard](https://betguard-anuz63rqv3kaskgeba4tnq.streamlit.app/)
 
 ## Tools & Technologies
 
