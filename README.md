@@ -1,4 +1,4 @@
-# 🛡️ BetGuard: Betting Fraud & Risk Monitoring Dashboard
+# BetGuard: Betting Fraud & Risk Monitoring Dashboard
 
 ## The Problem
 
